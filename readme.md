@@ -57,19 +57,19 @@ cargo build --release
 * To Run The project 
 
 ```bash 
-
 $ ./target/release/first-cli-tool/ --name=Wajahat
 
 $ ./target/release/first-cli-tool/ --help
 
 $ ./target/release/first-cli-tool/ --version
+```
+
 
 ## Getting Started
 
 * Clone this project by command 
 
 ```bash
-
 $ git clone https://github.com/DevWajahat/Rust-1st-CLI-Tool.git 
 
 cd Rust-1st-CLI-Tool.git
