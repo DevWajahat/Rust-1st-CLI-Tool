@@ -13,7 +13,24 @@
 
 ## Introduction
 
-<p>This project is made for learning purposes for my upcoming CLI Tool Project in this project I just take input from user in CLI and Prints their name eg:-&nbsp;<br><br><b>Input:</b></p><p><br>first-cli-tool --name=John<br></p><p><br><b>Output:</b><br></p><p><br></p><p>Hello John</p>
+<p>This project is made for learning purposes for my upcoming CLI Tool Project in this project I just take input from user in CLI and Prints their name eg:-&nbsp;<br><br><b>Input:</b></p><p><br>
+  ```bash
+    $  first-cli-tool --name=John
+  ```
+
+  
+  <br>
+
+  
+</p>
+<p>
+  <br>
+  <b>Output:</b>
+  <br></p><p><br>
+  </p>
+  <p>
+    `Hello John`
+  </p>
 
 ## Visuals
 
